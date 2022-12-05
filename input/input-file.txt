@@ -1,0 +1,10 @@
+Create "John Hamm"
+Create "Eric Bana"
+Create "Josh Sawyer"
+Create "Eric Clapton"
+Deposit 1001 1500
+Deposit 1002 3000
+Withdraw 1002 3005
+Transfer 1001 1003 2000
+Balance 1001
+
